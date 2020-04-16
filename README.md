@@ -44,6 +44,29 @@ and geolocation information.
 
 ### For Ping tool
 
+**1.** Enter IP/Domain name in input box ② and packet number in input box ③.
+
+**2.** Click button ⑤ to start Ping and result will be displayed in output area ⑥.
+
+### Notice
+If you input a wrong IP address/ domain name, an error message will be shown in the output area. Only numerical input is acceptable in package number input box. If you leave blank here, the application will set default package number to 4. Except the geolocation tool, other tools’ outputs are loaded dynamically. The outputs are added in a scroll view (chunks) for users to check.
+
 ## Traceroute tool
+<div align=center><img src = "https://github.com/Weihao-Jin/readme_pictures/blob/master/traceroute_tool.png"></div>
+
+① Back button ② IP/Domain name input box ③ Enter button ④ Tool bar 
+⑤ Map view button  ⑥ Chunk contains Traceroute infomation ⑦ Clear button
+
+### For Traceroute tool
+
+**1.** Enter IP/Domain name in input box ②.
+
+**2.** Click enter button ③ to start traceroute and result will be output in chunks (scroll view).
+
+**3.** Click map view button ⑤ to see traceroute path on Google map.
+
+### Notice
+Clear button ⑦ is one of the most common button in this application. When you are typing or there are contents in input box, the clear button will be visible for you to clear the input area. If users input an invalid IP address/domain name in traceroute or geolocation tool, a warning dialog will be shown.
+
 ## Geolocation tool
 ## LAN Manager tool
