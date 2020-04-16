@@ -86,3 +86,31 @@ Clear button ⑦ is one of the most common button in this application. When you 
 You can move Map view with one finger and zoom Map view with two fingers. If you click the red pin, the detail information of this IP will be shown in a text frame, including IP address, city, country, continent, latitude, longitude.
 
 ## LAN Manager tool
+<div align=center><img src = "https://github.com/Weihao-Jin/readme_pictures/blob/master/lan_manager.png"></div>
+
+① Back button ② Refresh button ③ Topological graph button
+④ Registered devices button ⑤ Register switch button
+
+### For Traceroute tool
+
+**1.** When entering LAN manager page, all devices in the same local area network will be retrived and displayed in scroll view.
+
+**2.** Click refresh button ② ,the tool will scan and retrieve the devices in the same local area network again.
+
+**3.** On each chunk that contains the information about the device there is a switch button named “Registered”, click this button and then corresponding device information will be stored. All registered devices can be seen in “Registered Devices” page. (“My Device” has been stored as shown above)
+
+**4.** Click the topological graph button ③ and then a real-time topological graph will be generated and displayed in “Topology Graph” page. (As shown in figure below)
+
+<br>
+
+<div align=center><img src = "https://github.com/Weihao-Jin/readme_pictures/blob/master/topology_graph.png"></div>
+
+### Notice
+After you changed your registered devices, the output in “Registered Devices” page will be changed automatically at the same time. 
+
+Note that the graph is generated dynamically. If you click item ③ during refreshing, you will get an uncompleted topological graph. To avoid this issue, it is designed to be shown only after finish refreshing.
+
+The “Registered Devices” page will show all of the registered devices, even they’re not currently connected.
+
+You can move topological graph with one finger and zoom topological graph with two fingers. If you want to reset the topology graph to initial location, you can click “Reset” key in the tool bar.
+
