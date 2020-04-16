@@ -69,7 +69,7 @@ If you input a wrong IP address/ domain name, an error message will be shown in 
 Clear button ⑦ is one of the most common button in this application. When you are typing or there are contents in input box, the clear button will be visible for you to clear the input area. If users input an invalid IP address/domain name in traceroute or geolocation tool, a warning dialog will be shown.
 
 ## Geolocation tool
-<div align=center><img src = "https://github.com/Weihao-Jin/readme_pictures/blob/master/geolocation_tool.png"></div>
+<div align=center><img src = "https://github.com/Weihao-Jin/readme_pictures/blob/master/geo.png"></div>
 
 ① Back button ② IP/Domain name input box ③ Enter button
 ④ Output area contains IP info ⑤ Map view button ⑥ Chunk contains IP info ⑦ Pin
@@ -86,7 +86,7 @@ Clear button ⑦ is one of the most common button in this application. When you 
 You can move Map view with one finger and zoom Map view with two fingers. If you click the red pin, the detail information of this IP will be shown in a text frame, including IP address, city, country, continent, latitude, longitude.
 
 ## LAN Manager tool
-<div align=center><img src = "https://github.com/Weihao-Jin/readme_pictures/blob/master/lan_manager.png"></div>
+<div align=center><img src = "https://github.com/Weihao-Jin/readme_pictures/blob/master/lan.png"></div>
 
 ① Back button ② Refresh button ③ Topological graph button
 ④ Registered devices button ⑤ Register switch button
