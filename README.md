@@ -1,4 +1,3 @@
-# User Manual
-# COMP208 Group29
+# User Manual<br>COMP208 Group29
 
 
