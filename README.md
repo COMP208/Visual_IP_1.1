@@ -69,4 +69,20 @@ If you input a wrong IP address/ domain name, an error message will be shown in 
 Clear button ⑦ is one of the most common button in this application. When you are typing or there are contents in input box, the clear button will be visible for you to clear the input area. If users input an invalid IP address/domain name in traceroute or geolocation tool, a warning dialog will be shown.
 
 ## Geolocation tool
+<div align=center><img src = "https://github.com/Weihao-Jin/readme_pictures/blob/master/geolocation_tool.png"></div>
+
+① Back button ② IP/Domain name input box ③ Enter button
+④ Output area contains IP info ⑤ Map view button ⑥ Chunk contains IP info ⑦ Pin
+
+### For Traceroute tool
+
+**1.** Enter IP/Domain name in input box ② .
+
+**2.** Click enter button ③ and the required geolocation information will be displayed in output area ④.
+
+**3.** Click map view button ⑤ and then the geolocation of the IP address will be displayed on Google map.
+
+### Notice
+You can move Map view with one finger and zoom Map view with two fingers. If you click the red pin, the detail information of this IP will be shown in a text frame, including IP address, city, country, continent, latitude, longitude.
+
 ## LAN Manager tool
