@@ -16,7 +16,17 @@ manage their family network devices and detect potential cyber threat.<br>
 **Web developers, general public**
 
 ## Hardware requirements
+* Mobile phone with Android OS version from 6.0 to 9.0
+* CPU speed: Quad-core 1.2GHz
+* RAM: 2GB
+* Storage: at least 50M free storage
+
 ## Installation and run
+Use official APK to install this application to your phone. (Click APK and Android
+phone will automatically install)
+
+All resource about this application is accessible on Github, user can download
+the newest update from the link below.
 ## Quick start
 ## Ping Tool
 ## Traceroute tool
