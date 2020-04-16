@@ -3,7 +3,7 @@
 <div align=center><img src = "https://github.com/Weihao-Jin/readme_pictures/blob/master/app.png"></div>
 
 ## Overview
-<div align=center><img src = "https://github.com/Weihao-Jin/readme_pictures/blob/master/main_menu.png"></div>
+<div align=center><img width="400" height="400" src = "https://github.com/Weihao-Jin/readme_pictures/blob/master/main_menu.png"></div>
 
 <p align="center">
 This network toolkit application includes 4 main tools, which respectively are<br>
@@ -37,7 +37,7 @@ the same item which is “My IP”. Users can click it to get their phones’ IP
 and geolocation information.
 
 ## Ping Tool
-<div align=center><img src = "https://github.com/Weihao-Jin/readme_pictures/blob/master/ping_tool.png"></div>
+<div align=center><img width="400" height="400" src = "https://github.com/Weihao-Jin/readme_pictures/blob/master/ping_tool.png"></div>
 
 ① Back button ② IP/Domain name input box ③ Package number input box
 ④ Tool bar    ⑤ Start Ping button ⑥ Output area
@@ -52,7 +52,7 @@ and geolocation information.
 If you input a wrong IP address/ domain name, an error message will be shown in the output area. Only numerical input is acceptable in package number input box. If you leave blank here, the application will set default package number to 4. Except the geolocation tool, other tools’ outputs are loaded dynamically. The outputs are added in a scroll view (chunks) for users to check.
 
 ## Traceroute tool
-<div align=center><img src = "https://github.com/Weihao-Jin/readme_pictures/blob/master/traceroute_tool.png"></div>
+<div align=center><img width="400" height="400" src = "https://github.com/Weihao-Jin/readme_pictures/blob/master/traceroute_tool.png"></div>
 
 ① Back button ② IP/Domain name input box ③ Enter button ④ Tool bar 
 ⑤ Map view button  ⑥ Chunk contains Traceroute infomation ⑦ Clear button
@@ -69,7 +69,7 @@ If you input a wrong IP address/ domain name, an error message will be shown in 
 Clear button ⑦ is one of the most common button in this application. When you are typing or there are contents in input box, the clear button will be visible for you to clear the input area. If users input an invalid IP address/domain name in traceroute or geolocation tool, a warning dialog will be shown.
 
 ## Geolocation tool
-<div align=center><img src = "https://github.com/Weihao-Jin/readme_pictures/blob/master/geolocation_tool.png"></div>
+<div align=center><img width="400" height="400" src = "https://github.com/Weihao-Jin/readme_pictures/blob/master/geolocation.png"></div>
 
 ① Back button ② IP/Domain name input box ③ Enter button
 ④ Output area contains IP info ⑤ Map view button ⑥ Chunk contains IP info ⑦ Pin
@@ -86,7 +86,7 @@ Clear button ⑦ is one of the most common button in this application. When you 
 You can move Map view with one finger and zoom Map view with two fingers. If you click the red pin, the detail information of this IP will be shown in a text frame, including IP address, city, country, continent, latitude, longitude.
 
 ## LAN Manager tool
-<div align=center><img src = "https://github.com/Weihao-Jin/readme_pictures/blob/master/lan_manager.png"></div>
+<div align=center><img width="400" height="400" src = "https://github.com/Weihao-Jin/readme_pictures/blob/master/lan_manager_tool.png"></div>
 
 ① Back button ② Refresh button ③ Topological graph button
 ④ Registered devices button ⑤ Register switch button
