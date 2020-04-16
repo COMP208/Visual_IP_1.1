@@ -24,9 +24,10 @@ manage their family network devices and detect potential cyber threat.<br>
 ## Installation and run
 Use official APK to install this application to your phone. (Click APK and Android
 phone will automatically install)
-
+<br>
 All resource about this application is accessible on Github, user can download
 the newest update from the link below.
+
 ## Quick start
 ## Ping Tool
 ## Traceroute tool
